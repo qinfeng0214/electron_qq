@@ -1,5 +1,6 @@
 import { createApp } from "vue";
 import "./style.css";
+import 'element-plus/dist/index.css';
 
 // 导入 FontAwesome 图标
 import { library as fontAwesomeLibrary } from "@fortawesome/fontawesome-svg-core";
